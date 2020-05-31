@@ -5,3 +5,5 @@
 https://github.com/huanghongxun/HMCL 需要javafx的java程序，openjdk默认不携带，而且我不会构建openjfx，只能像怎么傻逼的法子。
 
 网盘地址：https://cloud.189.cn/t/IbQjI3uEnQny
+
+参考的仓库：https://github.com/scienty/openjfx-binaries-mac , https://github.com/scienty/openjfx-binaries-java8-linux-64 （windows覆盖找模块法）
