@@ -1,4 +1,5 @@
 # other-javafx
+修复mac和liunx缺失fx库
 复制于BellSoft的Liberica JDK(https://bell-sw.com/pages/downloads/#/java-8-lts)    |    copy from Liberica JDK (https://bell-sw.com/pages/downloads/#/java-8-lts)
 
 复制Liberica JDK的fx部分，可以覆盖给openjdk使用
